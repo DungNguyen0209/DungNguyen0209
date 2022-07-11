@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Hi, I’m @NguyenDung0209
+I build things for the web and desktop app. My major is Automation Engineering.
 
-<!--
-**DungNguyen0209/DungNguyen0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 I’m also interested in .NET
+I have built an app for desktop that can track the parameters of a particular machine using .NET Framework and a supervisory control and data acquisition web-application using ASP.NET in C.H.A JSC.
 
-Here are some ideas to get you started:
+_Note_: **🌱 I’m currently learning advanced C# that can help me to build web app**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me?
+You can contact me via:
+* [Facebook](https://www.facebook.com/NguyenDung.BKU/)
+* [LinkedIn](https://www.linkedin.com/in/dungnguyen0209/)
+* Email: nguyenhoangminhdungbk18@gmail.com
