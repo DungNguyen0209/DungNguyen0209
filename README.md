@@ -2,7 +2,7 @@
 I build things for the web and desktop app. My major is Automation Engineering.
 
 ## 👀 I’m also interested in .NET
-I have built an app for desktop that can track the parameters of a particular machine using .NET Framework and a supervisory control and data acquisition web-application using ASP.NET in C.H.A JSC.
+I have built an app for desktop that can track the parameters of a particular machine using .NET Framework and a supervisory control and data acquisition Desktop-Application using WPF in C.H.A JSC.
 
 _Note_: **🌱 I’m currently learning advanced C# that can help me to build web app**
 
