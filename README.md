@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m @NguyenDung0209
-I build things for the web and desktop app. My major is Automation Engineering.
 
 ## 👀 I’m also interested in software development
 _Note_: **🌱 I’m currently Back End Software Engineer (C#)
