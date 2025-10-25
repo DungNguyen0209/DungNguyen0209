@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @NguyenDung0209
 
 ## 👀 I’m also interested in software development
-_Note_: **🌱 I’m currently Back End Software Engineer (C#)
+_Note_: **🌱 I’m currently Back End Software Engineer
 
 ## 📫 How to reach me?
 You can contact me via:
