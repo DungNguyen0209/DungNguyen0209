@@ -5,6 +5,6 @@ _Note_: **🌱 I’m currently Back End Software Engineer
 
 ## 📫 How to reach me?
 You can contact me via:
-* [Facebook](https://www.facebook.com/NguyenDung.BKU/)
 * [LinkedIn](https://www.linkedin.com/in/dungnguyen0209/)
+* [LeetCode](https://leetcode.com/u/DungNguyen0209/)
 * Email: dung.nhm.hcmut@gmail.com
